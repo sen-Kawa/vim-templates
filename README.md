@@ -1,4 +1,5 @@
 # vim-templates
+
 ## My quest on creating skeletons/templates for my orthodox canonical form classes in C++
 
 Add the following line to your `.vimrc`
